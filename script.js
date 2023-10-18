@@ -5,7 +5,7 @@ function threeSum(arr, target) {
 
 	for(let i=0;i<=n-3;i++)
 		{
-				for(let j=i+1;i<=n-2;j++)
+				for(let j=i+1;j<=n-2;j++)
 					{
 							for(let k=j+1;k<=n-1;k++)
 								{
